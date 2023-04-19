@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285894094841@s.whatsapp.net","6285894094841@s.whatsapp.net"],
+    "ownerName": "",
+    "instagram" : "https://instagram.com/lorenzoelado123",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "ZeBot ",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "YTHqHbLejCs8CzX",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": true,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 100,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
