@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["62881010073793@s.whatsapp.net","62881010073793@s.whatsapp.net"],
+    "ownerNumber": ["62881010073793@s.whatsapp.net","6285894094841@s.whatsapp.net"],
     "ownerName": "",
     "instagram" : "https://instagram.com/lorenzoelado123",
     "gcwa" : "https://instabio.cc/Alphabot",
@@ -11,7 +11,7 @@
     "BotKey": "YTHqHbLejCs8CzX",
     "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
-    "auto_ai_japri": true,
+    "auto_ai_japri": false,
     "auto_ai_grup": false,
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true, 
